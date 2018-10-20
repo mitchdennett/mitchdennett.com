@@ -1,0 +1,4 @@
+baseURL = "https://mitchdennett.com/"
+languageCode = "en-us"
+title = "Mitch Dennett"
+theme = "uilite"

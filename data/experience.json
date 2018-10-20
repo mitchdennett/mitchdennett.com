@@ -1,0 +1,21 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Aug 2014 - Aug 2015",
+			"company" : "Promevo",
+			"description" : "Worked as a Full Stack Junior Developer at Promevo. Mainly using Java for both backend and frontend. "
+		},
+		{
+			"timeperiod" : "Oct 2015 - Jan 2016",
+			"company" : "Great American Insurance (Contractor)",
+			"description" : "Started at Great American Insurance as a Contract-To-Hire."
+		},
+
+		{
+			"timeperiod" : "Jan 2016 - Present",
+			"company" : "Great American Insurance",
+			"description" : "Application Analyst & Developer - I work on the GIS team at Great American. We mainly use Java, Javascript and HTML/CSS. Some experience with Python."
+		}
+	]
+}
