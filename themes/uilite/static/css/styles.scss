@@ -393,6 +393,15 @@ section{
       }
     }
   }
+
+  .main-content{
+    &.active{
+      &:after{
+        content: none;
+        
+      }
+    }
+  }
 }
 
 $bar-width: 24px;
